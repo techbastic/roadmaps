@@ -8,7 +8,7 @@ To kickstart your career journey, it's essential to follow these roadmaps: educa
 <p  align="Left"><a href="Android-Development#readme"><b>Android-Development</b></a></p>
 <p  align="Left"><a href="iOS-Development#readme"><b>iOS-Development</b></a></p> 
 <p  align="Left"><a href="Backend-Development#readme"><B>Backend-Development</B></a></p>
-<p  align="Left"><a href="https://github.com/YashCommits/roadmaps/blob/main/BlockChain/readme.md"><b>Blockchain</b></a></p>
+<p  align="Left"><a href="https://github.com/YashCommits/roadmaps/tree/main/BlockChain"><b>Blockchain</b></a></p>
 <p  align="Left"><a href="Data-Science#readme"><b>Data-Science</b></a></p>
 <p  align="Left"><a href="DevOps#readme"><b>DevOps</b></a></p>
 <p  align="Left"><a href="DevRel#readme"><b>DevRel</b></a></p>
