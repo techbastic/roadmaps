@@ -18,10 +18,6 @@
 - [Dao](https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc?gi=3cdc842aa6b8)
 - [NFT](https://www.youtube.com/watch?v=9yuHz6g_P50&ab_channel=PatrickCollins)
 
-### Additional resources for Blockchain Fundamentals
-- [Metaschool: Free cources](https://metaschool.so/courses)
-- [Lumos Academy: Learning Platform](https://academy.lumoslabs.co/courses)
-- [DeFi Infrastructure(Youtube)](https://www.youtube.com/playlist?list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm)
 
 ### Choose A Blockchain
 - [Ethereum](https://ethereum.org/)
