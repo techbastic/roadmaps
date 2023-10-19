@@ -27,14 +27,14 @@ To kickstart your career journey, it's essential to follow these roadmaps: educa
   <a href="https://discord.com/invite/4G22y2vPdx">
     <img width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
   </a>&ensp;
-    <a href="https://t.me/WeMakeDevs">
+    <a href="###">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
   </a>&ensp;
   <a href="https://twitter.com/techbastic">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/company/WeMakeDevs/">
+  <a href="###">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/techbastic/">
