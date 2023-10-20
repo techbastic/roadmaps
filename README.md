@@ -1,4 +1,4 @@
-<h1 align="center" > 🚀  Mentorship Roadmaps  🚀</h1>
+<h1 align="center" > 🚀  Developers Roadmaps  🚀</h1>
 
 
 
@@ -25,8 +25,6 @@ To kickstart your career journey, it's essential to follow these roadmaps:
 <p  align="Left"><a href="Open-Source#readme"><b>Open-Source</b></a></p>
 
 ## You know something which is not mentioned in this repo? OK then do some Contribution and Help us to improve:
-
-![64598e817c9c00e5fe589262d20d6ffb](https://github.com/YashCommits/roadmaps/assets/140940344/78ffd091-b3c0-4b3f-96c1-cabb56ae5f9c)
 
 
 ## Connect with us ❤️
