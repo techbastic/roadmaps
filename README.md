@@ -1,6 +1,13 @@
-# 🚀 Mentorship Roadmaps 🚀
+<h1 align="center" > 🚀  Mentorship Roadmaps  🚀</h1>
 
-To kickstart your career journey, it's essential to follow these roadmaps: educate yourself and then apply for positions. We've got you covered with a comprehensive repository featuring a curated list of communities and job portals where you can connect, learn, and apply. This invaluable resource will help you navigate your path to success in your chosen field. So, why wait? Dive in and take the first step toward your dream career!
+
+
+To kickstart your career journey, it's essential to follow these roadmaps: 
+- educate yourself 
+- apply for positions
+- We've got you covered with a comprehensive repository featuring a curated list of communities and job portals where you can connect, learn, and apply.
+
+  So, why wait? Dive in and take the first step toward your dream career!
 
 ## Roadmaps:
 
@@ -17,7 +24,7 @@ To kickstart your career journey, it's essential to follow these roadmaps: educa
 <p  align="Left"><a href="Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
 <p  align="Left"><a href="Open-Source#readme"><b>Open-Source</b></a></p>
 
-## Contribution:
+## You know something which is not mentioned in this repo? OK then do some Contribution and Help us to improve:
 
 ![64598e817c9c00e5fe589262d20d6ffb](https://github.com/YashCommits/roadmaps/assets/140940344/78ffd091-b3c0-4b3f-96c1-cabb56ae5f9c)
 
