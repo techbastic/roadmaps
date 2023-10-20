@@ -7,7 +7,7 @@ To kickstart your career journey, it's essential to follow these roadmaps:
 - apply for positions
 - We've got you covered with a comprehensive repository featuring a curated list of communities and job portals where you can connect, learn, and apply.
 
-  So, why wait? Dive in and take the first step toward your dream career!
+  So, whar are you waiting for? Dive in and take the first step toward your dream career!
 
 ## Roadmaps:
 
