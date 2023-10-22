@@ -1,13 +1,14 @@
-<h1 align="center" > 🚀  Developers Roadmaps  🚀</h1>
+<h1 align="center" >Developer Roadmaps</h1>
 
+To kickstart your Developer Journey, we have made a repository featuring a curated list of :
 
+- Resources
+- Communities
+- Job Portals
 
-To kickstart your career journey, it's essential to follow these roadmaps: 
-- educate yourself 
-- apply for positions
-- We've got you covered with a comprehensive repository featuring a curated list of communities and job portals where you can connect, learn, and apply.
+where you can learn, connect and apply.
 
-  So, whar are you waiting for? Dive in and take the first step toward your dream career!
+So, let's dive in and take the first step towards your learning goal !
 
 ## Roadmaps:
 
@@ -24,23 +25,13 @@ To kickstart your career journey, it's essential to follow these roadmaps:
 <p  align="Left"><a href="Fullstack-Development#readme"><b>Fullstack-Development</b></a></p>
 <p  align="Left"><a href="Open-Source#readme"><b>Open-Source</b></a></p>
 
-## You know something which is not mentioned in this repo? OK then do some Contribution and Help us to improve:
+##### You know something which is not mentioned in this repo?OK then do some Contribution and Help us to improve:
 
 
 ## Connect with us ❤️
 
-  <a href="https://discord.com/invite/4G22y2vPdx">
-    <img width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
-  </a>&ensp;
-    <a href="###">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a> 
-  </a>&ensp;
-  <a href="https://twitter.com/techbastic">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="###">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/techbastic/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+<a href="https://discord.com/invite/4G22y2vPdx"><img width="30px" src="https://camo.githubusercontent.com/3049cb1225d51f56771d4fb83b2d5ce79733373c67009a92b1d89c975e65dc86/68747470733a2f2f646973636f72642e636f6d2f6173736574732f33343337633130353937633135323663336462643938633733376332626361652e737667"></a>
+<a href="https://t.me/techbastic"><img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"></a>
+<a href="https://twitter.com/techbastic"><img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>
+<a href="#"><img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+<a href="https://www.instagram.com/techbastic/"><img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
