@@ -1,12 +1,12 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Issue request
+about: Tell us the issue
 title: ""
-labels: ["feature"]
+labels: ["issue"]
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Please describe your issue.**
 <!-- A clear and concise description of what the problem is. (e.g.:) I'm always frustrated when [...]  -->
 
 **Describe the solution you'd like**
