@@ -11,7 +11,7 @@ To kickstart your Developer Journey, we have made a repository featuring a curat
 - Job Portals
 
 where you can learn, connect and apply.<br>
-So, let's dive in and take the first step towards your learning goal !
+So, let's dive in and take the first step toward your learning goal!
 
 <!-- List of curated Roadmaps here -->
 ## Roadmaps
@@ -33,12 +33,12 @@ Just follow the steps below to get started :
 
 - Fork & Star the repo
 - Clone the repo
-- Create new branch
+- Create a new branch
 - Do your changes
 - Commit the changes
-- make Pull Request
+- Make a Pull Request
 
-After creating the Pull Request, wait for getting your PR reviewed 😇
+After creating the Pull Request, wait to get your PR reviewed 😇
 
 <!-- License section -->
 ## License
