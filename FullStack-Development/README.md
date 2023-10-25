@@ -8,6 +8,7 @@
   * [JavatPoint](https://www.javatpoint.com/)
   * [GeeksforGeeks](https://www.geeksforgeeks.org/)
   * [HackerRank](https://www.hackerrank.com/)
+  * [W3C Web Accessibility Initiative - Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
 ## Communities
 
