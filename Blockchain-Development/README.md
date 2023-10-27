@@ -65,6 +65,18 @@ To build: Frontend + Smart Contract => Decentralized Application
   
 ## Resources
 
+### For BlockChain Core Developer:
+- <a href="https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA">DSA with C++ by Love Babbar (HINDI)</a>
+- <a href="https://www.youtube.com/watch?v=BpPEoZW5IiY&t=217s&ab_channel=freeCodeCamp.org">Rust tutorial by freeCodeCamp (ENGLISH)</a>
+- <a href="https://www.youtube.com/watch?v=IPvYjXCsTg8&ab_channel=KunalKushwaha">computer networks by kunal khuswaha (ENGLISH)</a>
+- <a href="https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa">GO language by Hitesh choudhary(ENGLISH)</a>
+
+### For BlockChain software developer:
+- <a href="https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37">JavaScript by Hitesh choudhary(Hindi)</a>
+- <a href="https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42">Blockchain Developer, Solidity, Foundry Full Course by Patrick Collins(ENGLISH)</a>
+- <a href="https://www.alchemy.com/university/courses/solidity">Solidity by Alchemy university (ENGLISH)</a>
+- <a href="https://www.alchemy.com/university/courses/ethereum">Ethereum Developer Bootcamp by Alchemy university (ENGLISH)</a>
+
 ## Communities
 
 ## Job Portals
