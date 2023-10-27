@@ -80,3 +80,8 @@ To build: Frontend + Smart Contract => Decentralized Application
 ## Communities
 
 ## Job Portals
+- <a href="https://web3.career/">web3.career</a>
+- <a href="https://cryptocurrencyjobs.co/">cryptocurrencyjobs.co</a>
+- <a href="https://www.defi.jobs/">defi.jobs</a>
+- <a href="https://crypto.jobs/">crypto.jobs</a>
+- <a href="https://www.useweb3.xyz/jobs">useweb3</a>
