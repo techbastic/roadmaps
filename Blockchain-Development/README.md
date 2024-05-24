@@ -78,6 +78,8 @@ To build: Frontend + Smart Contract => Decentralized Application
 - <a href="https://www.alchemy.com/university/courses/ethereum">Ethereum Developer Bootcamp by Alchemy university (ENGLISH)</a>
 
 ## Communities
+- <a href="https://blockchain.topcoder.com/">TopCoder - blockchain community </a>
+- <a href="https://tokenminds.co/development-of-blockchain/">TokenMinds - blockchain and web3 community </a>
 
 ## Job Portals
 - <a href="https://web3.career/">web3.career</a>
